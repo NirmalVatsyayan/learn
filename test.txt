@@ -1,0 +1,8 @@
+scrapper should always be run by command
+
+python scrap.py
+
+admin : nirmal
+password : password
+
+https://www.youtube.com/watch?v=bSvmlu7OoLk&list=PLEsfXFp6DpzT5veidCTZ1mQriBX0Mu2LF&index=15
